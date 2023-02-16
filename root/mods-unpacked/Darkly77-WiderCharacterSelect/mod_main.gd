@@ -1,6 +1,6 @@
 extends Node
 
-const WIDEGUI_LOG = "Darkly77-ContentLoader"
+const WIDEGUI_LOG = "Darkly77-WiderCharacterSelect"
 var dir = ""
 
 
